@@ -18,17 +18,20 @@ Build
 
 使用
 ---
-1.設定相機參數（yaml）
-可參考 `./Examples/ROS/mycam.yaml`
+1.config
+
+可參考 `./Examples/ROS/mycam.yaml`，填入相機參數以及maP儲存、讀取路徑
 
 2.運行
 
 	rosrun ORB_SLAM3 Mono ./ORB_SLAM3/Vocabulary/ORBvoc.txt ./ORB_SLAM3/Examples/ROS/mycam.yaml /image
-`./ORB_SLAM3/Examples/ROS/mycam.yaml` 填入自己相機的設定檔位址
+`./ORB_SLAM3/Examples/ROS/mycam.yaml` 填入自己相機的設定檔路徑
 
 `/image`填入ROS 影像Topic的名稱
 
+3.結束運行
 
+	rosnode kill -a
 
 
 
