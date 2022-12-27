@@ -32,6 +32,8 @@ Build
 3.結束運行
 
 	rosnode kill -a
+	
+結束後會儲存map
 
 
 
