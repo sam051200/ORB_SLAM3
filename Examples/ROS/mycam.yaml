@@ -1,5 +1,4 @@
 %YAML:1.0
-# System.LoadAtlasFromFile: "/dpds/ORB_SLAM3/Examples/ROS/ee07/Results/ee07.osa"
 # System.LoadAtlasFromFile: "../ee07/Results/ee07"
 # System.SaveAtlasToFile: "Results/ee07"
 #--------------------------------------------------------------------------------------------
