@@ -19,7 +19,7 @@ Build
 使用
 ---
 1.設定相機參數（yaml）
-可參考 `ORB_SLAM3/Examples/ROS/mycam.yaml`
+可參考 `./Examples/ROS/mycam.yaml`
 
 2.運行
 
