@@ -20,7 +20,7 @@ Build
 ---
 1.config
 
-可參考 `./Examples/ROS/mycam.yaml`，填入相機參數以及maP儲存、讀取路徑
+可參考 `./Examples/ROS/mycam.yaml`，填入相機參數以及map儲存、讀取路徑
 
 2.運行
 
