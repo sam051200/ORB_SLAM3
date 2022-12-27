@@ -2,7 +2,6 @@
 Build
 ---
 
-<font color=#0000>我是深綠色</font>
 1.Building ORB-SLAM3
 
     git clone https://github.com/sam051200/ORB_SLAM3.git 
