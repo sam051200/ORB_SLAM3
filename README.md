@@ -26,7 +26,7 @@ Build
 	rosrun ORB_SLAM3 Mono ./ORB_SLAM3/Vocabulary/ORBvoc.txt ./ORB_SLAM3/Examples/ROS/mycam.yaml /image
 `./ORB_SLAM3/Examples/ROS/mycam.yaml` 填入自己相機的設定檔位址
 
-`/image`填入ROS 影像Topic的
+`/image`填入ROS 影像Topic的名稱
 
 
 
