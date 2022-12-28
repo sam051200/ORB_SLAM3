@@ -1,3 +1,5 @@
+ORB-SLAM3 + EQ
+===
 
 Build
 ---
@@ -5,7 +7,7 @@ Build
 1.Building ORB-SLAM3
 
     git clone https://github.com/sam051200/ORB_SLAM3.git 
-	cd ORB_SLAM3 
+	cd ORB_SLAM3
 	chmod +x build.sh 
 	./build.sh 
 2.Building ORB-SLAM3 for ROS nodes 
